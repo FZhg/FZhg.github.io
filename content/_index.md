@@ -1,9 +1,9 @@
 ---
-title: Introduction
+title: About Me
 type: docs
 ---
 
-# Acerbo datus maxime
+# I aspires to be an SRE.
 
 {{< columns >}}
 ## Astris ipse furtiva
