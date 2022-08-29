@@ -3,37 +3,30 @@ title: About Me
 type: docs
 ---
 
-# Hello! I am Fan!
+# Hello, I am Fan Zhang!
 
 {{< columns >}}
-## My Experience
+## My Experiences
+I studied Physics as an undergraduate. I taught GRE and AP statistics for 3 years. I worked as product manager for an edu-tech company for 1 years. I am a master student in the System Design Engineering Department of the University of Waterloo.
 
- z
 
 <--->
 
-## My Interest
+## My Goals
+I am interested in Computer System and Distributed Computing. I aspire to be a Site Reliability Engineer.
 
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
+
 {{< /columns >}}
 
 
-## Tempora nisi nunc
+## My Personality
+According to [16Personality](https://www.16personalities.com/), I am an  Advocate (INFJ-T). In short, I am altruistic, self-driven yet idealistic, perfectionist and prone to burn-out. You can read more about my personality type at [here](https://www.16personalities.com/profiles/87e0d364e504d).
 
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
 
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
+## My Hobbies
+I love cooking and Fitness classes. Occasionally, I reward myself a visit to museums and galleries or a hiking trip.
 
-## Locis suis novi cum suoque decidit eadem
 
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
+
+## My Social Media
+You can check my professional life at [LinkedIn](https://www.linkedin.com/in/fan-zhang-708623138/) and personal life at [Instagram](https://www.instagram.com/zhangfan5867/).
