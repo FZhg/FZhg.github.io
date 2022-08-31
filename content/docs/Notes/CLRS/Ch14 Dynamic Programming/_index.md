@@ -20,7 +20,9 @@ Given an integer array nums, return the length of the longest strictly increasin
 A subsequence is a sequence that can be derived from an array by deleting some or no elements without changing the order of the remaining elements. For example, [3,6,2,7] is a subsequence of the array [0,3,1,6,2,2,7].
 {{< /hint >}}
 
-### {{< katex >}} O(n^2) {{< /katex >}} Solutions
+
+### O(n<sup>2</sup>) Solutions
+
 A sequence X of n numbers:  {{< katex >}} X=<x_1, x_2, ....., x_n> {{< /katex >}}
 
 1. Sort X into {{< katex >}} Y=<y_1, y_2, ....., y_n> {{< /katex >}}. In Y, the numbers are sorted. In other words, if i < j, then {{< katex >}} y_i < y_j {{< /katex >}}.
@@ -32,9 +34,13 @@ A sequence X of n numbers:  {{< katex >}} X=<x_1, x_2, ....., x_n> {{< /katex >}
 
 The LCS of X and Y is by its definition a subsequence of Y. Then the numbers in the LCS is indeed increasing. 
 
+Suppose there is another subsequence of X, Z, which is increasing and longer than LCS of  X and Y.  Since Z is increasing and a subsequence of X, then Z must be an subsequence of Y. Then Z is a common subsequence of X and Y. Since Z is longer than the current LCS, Z should be the longest common subsequence, which is a contradiction.
 
-*Runtime*
 
-*Handwritten Golang Implementation*
 
-*Golang Implementation and Leetcode Result*
+#### *Runtime*
+The sorting will cost {{< katex >}} O(n lgn) {{< /katex >}}, if we use quick sort. The runtime of LCS-LENGTH in section 14.4 is {{< katex >}} \theta(n m) {{< /katex >}}. With {{< katex >}} n = m {{< /katex >}}, the LCS-LENGTH costs {{< katex >}} \theta (n^2){{< /katex >}}. Similarly, The PRINT-LCS in section 14.4 costs {{< katex >}} O(n + m) {{< /katex >}}. With n = m, the PRINT-LCS costs {{< katex >}} O(n ) {{< /katex >}}. Then the dominating term in the this solutions should be {{< katex >}} O(n^2) {{< /katex >}}.
+
+#### *Handwritten Golang Implementation*
+
+#### *Golang Implementation and Leetcode Result*
