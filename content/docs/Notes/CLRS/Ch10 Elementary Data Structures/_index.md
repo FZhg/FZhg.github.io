@@ -1,2 +1,3 @@
-# [Chapter 10 Elementary Data Structures](./Ch10.pdf)
+# Chapter 10 Elementary Data Structures
 
+[PDF solutions](./Ch10.pdf)

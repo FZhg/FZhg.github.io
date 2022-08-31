@@ -1,2 +1,4 @@
-# [Chapter 11 Hash Tables](./Ch11.pdf)
 
+# Chapter 11 Hash Tables
+
+[PDF solutions](./Ch11.pdf)

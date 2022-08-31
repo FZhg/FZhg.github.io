@@ -7,7 +7,7 @@ type: docs
 
 {{< columns >}}
 ## My Experiences
-I studied Physics as an undergraduate. I taught GRE and AP statistics for 3 years. I worked as product manager for an edu-tech company for 1 years. I am a master student in the System Design Engineering Department of the University of Waterloo.
+I studied Physics as an undergraduate. I taught GRE and AP statistics for 3 years. I worked as product manager for an edu-tech company for 1 year. I am a master student in the System Design Engineering Department of the University of Waterloo.
 
 
 <--->

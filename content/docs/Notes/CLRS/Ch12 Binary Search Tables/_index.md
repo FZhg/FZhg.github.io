@@ -1,2 +1,3 @@
-# [Chapter 12 Binary Search Trees](./Ch12.pdf)
+# Chapter 12 Binary Search Trees
 
+[PDF solutions](./Ch12.pdf)
